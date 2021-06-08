@@ -1,0 +1,15 @@
+body{
+	text-align: center;
+}
+.logo{
+	height: 20px;
+	width: 20px
+}
+/* Three image containers (use 25% for four, and 50% for two, etc) */
+.column {
+  float: left;
+  width: 30.33%;
+  height: 300px;
+  padding: 10px;
+}
+
